@@ -21,13 +21,5 @@ public class task01 {
 		
 		password.sendKeys("Amazon@123");
 		
-		WebElement button = driver.findElement(By.xpath("//input[@class='Log In']"));
-		button.click();
 		
-
-		System.out.println("element");
-		System.out.println("element");
-		System.out.println("element");
-		System.out.println("element");
-	}
 }
